@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
 
             System.out.println("hello teskt zrobione na feature/2");
-            System.out.println("hello dodany w feature1 dolozenie na hub zrobione na futhure1 lokalnie");
+            System.out.println("hello dodany w commit czy działa automatycznie z commitem");
 
 
     }
